@@ -32,11 +32,11 @@ npm install
 ```
 ### 3. Start the Server
 ```bash
-npm start
+node app.js
 ```
-This will start the server on http://localhost:4000
+This will start the server on http://localhost:4000/graphql
 ## Results
 <p align="center">
-  <img src="Img/graph.PNG" alt="graph">
+  <img src="images/graph.PNG" alt="graph">
 </p>
 
